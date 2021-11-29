@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "801825801234",
+    "project_id": "samplefirebaseapp-67f3c",
+    "storage_bucket": "samplefirebaseapp-67f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801825801234:android:2642fde14f0b3f1d25c4cb",
+        "android_client_info": {
+          "package_name": "edu.festu.numberfacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801825801234-u5sj75et6qvfuunn4bn8ua4c4ea4orqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOc9-BXrGHT2himgHyeAm5vgF6BeEI-A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801825801234-u5sj75et6qvfuunn4bn8ua4c4ea4orqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801825801234:android:81429c5c533dc7f925c4cb",
+        "android_client_info": {
+          "package_name": "edu.festu.yulia.ponomarchuk.samples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801825801234-m9coogubofpant3p0v1krh71rajc9fpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.festu.yulia.ponomarchuk.samples",
+            "certificate_hash": "656ca3bd77434803c1a0eee9fc7e6ce669804087"
+          }
+        },
+        {
+          "client_id": "801825801234-u5sj75et6qvfuunn4bn8ua4c4ea4orqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOc9-BXrGHT2himgHyeAm5vgF6BeEI-A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801825801234-u5sj75et6qvfuunn4bn8ua4c4ea4orqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

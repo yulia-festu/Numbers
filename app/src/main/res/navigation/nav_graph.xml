@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/getFactFragment">
+
+    <fragment
+        android:id="@+id/getFactFragment"
+        android:name="edu.festu.numberfacts.GetFactFragment"
+        android:label="Get Fact"
+        tools:layout="@layout/fragment_get_fact" />
+    <fragment
+        android:id="@+id/factFragment"
+        android:name="edu.festu.numberfacts.FactFragment"
+        android:label="Fact List"
+        tools:layout="@layout/fragment_item_list" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="edu.festu.numberfacts.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>
